@@ -1,3 +1,2 @@
 PLEASE NOTE THAT ALL FILES WRITTEN OUT ARE FOUND IN THE FOLLOWING PATH  :
-  {this part will depend on your pc}	     |	{This part is standard}
-"C:\Users\User\source\repos\"                            |GoodMatchingCSVFileReader\bin\Debug\netcoreapp3.1\Files\Output\Logs
+C:\Files\Output\
