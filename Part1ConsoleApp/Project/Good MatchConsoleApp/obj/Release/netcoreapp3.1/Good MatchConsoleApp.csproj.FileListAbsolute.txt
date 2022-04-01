@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Good MatchConsoleApp\bin\Release\netcoreapp3.1\Good MatchConsoleApp.exe
+C:\Users\User\source\repos\Good MatchConsoleApp\bin\Release\netcoreapp3.1\Good MatchConsoleApp.deps.json
+C:\Users\User\source\repos\Good MatchConsoleApp\bin\Release\netcoreapp3.1\Good MatchConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\Good MatchConsoleApp\bin\Release\netcoreapp3.1\Good MatchConsoleApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\Good MatchConsoleApp\bin\Release\netcoreapp3.1\Good MatchConsoleApp.dll
+C:\Users\User\source\repos\Good MatchConsoleApp\bin\Release\netcoreapp3.1\Good MatchConsoleApp.pdb
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.dll
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.pdb
+C:\Users\User\source\repos\Good MatchConsoleApp\obj\Release\netcoreapp3.1\Good MatchConsoleApp.genruntimeconfig.cache

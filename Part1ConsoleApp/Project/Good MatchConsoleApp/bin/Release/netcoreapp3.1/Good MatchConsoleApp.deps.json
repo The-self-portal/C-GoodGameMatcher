@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Good MatchConsoleApp/1.0.0": {
+        "runtime": {
+          "Good MatchConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Good MatchConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
